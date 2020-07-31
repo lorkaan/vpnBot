@@ -1,0 +1,5 @@
+creds.txt
+config/
+.vscode/
+__pycache__
+
